@@ -5,10 +5,10 @@
 Network Working Group                                           J. Arkko
 Internet-Draft                                                  Ericsson
 Intended status: Best Current Practice                        S. Farrell
-Expires: 2 May 2021                                                     
+Expires: 7 May 2021                                                     
                                                             M. Kühlewind
                                                                 Ericsson
-                                                         29 October 2020
+                                                         3 November 2020
 
 
        Report from the IAB COVID-19 Network Impacts Workshop 2020
@@ -42,7 +42,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 2 May 2021.
+   This Internet-Draft will expire on 7 May 2021.
 
 Copyright Notice
 
@@ -53,9 +53,9 @@ Copyright Notice
 
 
 
-Arkko, et al.              Expires 2 May 2021                   [Page 1]
+Arkko, et al.              Expires 7 May 2021                   [Page 1]
 
-Internet-Draft  IAB COVID-19 Network Impacts Workshop 20    October 2020
+Internet-Draft  IAB COVID-19 Network Impacts Workshop 20   November 2020
 
 
    This document is subject to BCP 78 and the IETF Trust's Legal
@@ -109,9 +109,9 @@ Authors' Addresses
 
 
 
-Arkko, et al.              Expires 2 May 2021                   [Page 2]
+Arkko, et al.              Expires 7 May 2021                   [Page 2]
 
-Internet-Draft  IAB COVID-19 Network Impacts Workshop 20    October 2020
+Internet-Draft  IAB COVID-19 Network Impacts Workshop 20   November 2020
 
 
    Email: mirja.kuehlewind@ericsson.com
@@ -165,4 +165,4 @@ Internet-Draft  IAB COVID-19 Network Impacts Workshop 20    October 2020
 
 
 
-Arkko, et al.              Expires 2 May 2021                   [Page 3]
+Arkko, et al.              Expires 7 May 2021                   [Page 3]
