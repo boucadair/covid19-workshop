@@ -5,10 +5,10 @@
 Network Working Group                                           J. Arkko
 Internet-Draft                                                  Ericsson
 Intended status: Best Current Practice                        S. Farrell
-Expires: 10 May 2021                                                    
+Expires: 13 May 2021                                                    
                                                             M. Kühlewind
                                                                 Ericsson
-                                                         6 November 2020
+                                                         9 November 2020
 
 
        Report from the IAB COVID-19 Network Impacts Workshop 2020
@@ -42,7 +42,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 10 May 2021.
+   This Internet-Draft will expire on 13 May 2021.
 
 Copyright Notice
 
@@ -53,7 +53,7 @@ Copyright Notice
 
 
 
-Arkko, et al.              Expires 10 May 2021                  [Page 1]
+Arkko, et al.              Expires 13 May 2021                  [Page 1]
 
 Internet-Draft  IAB COVID-19 Network Impacts Workshop 20   November 2020
 
@@ -109,7 +109,7 @@ Table of Contents
 
 
 
-Arkko, et al.              Expires 10 May 2021                  [Page 2]
+Arkko, et al.              Expires 13 May 2021                  [Page 2]
 
 Internet-Draft  IAB COVID-19 Network Impacts Workshop 20   November 2020
 
@@ -165,4 +165,4 @@ Authors' Addresses
 
 
 
-Arkko, et al.              Expires 10 May 2021                  [Page 3]
+Arkko, et al.              Expires 13 May 2021                  [Page 3]
